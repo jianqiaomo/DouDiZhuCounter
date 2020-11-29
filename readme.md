@@ -8,7 +8,7 @@
 - `python count.py`
 
     <div align="center">
-      <img src="https://raw.githubusercontent.com/jianqiaomo/DouDiZhuCounter/master/example1.png"/>
+      <img src="https://raw.githubusercontent.com/jianqiaomo/DouDiZhuCounter/master/example0.png"/>
     </div>
     
     - 第一个 _**2**_ 3 
