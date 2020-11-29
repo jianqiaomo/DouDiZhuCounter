@@ -49,7 +49,7 @@ if __name__ == '__main__':
             buffer.insert(0, 0)
             LeftValue = buffer[len(buffer) - 1]
             print("recall the last result")
-            print("player 1 2 3")
+            print("player #1 #2 #3")
             print(buffer[len(buffer) - 1])
         else:
             screenin = str.split()
@@ -95,5 +95,5 @@ if __name__ == '__main__':
             buffer.append(copy.copy(LeftValue))
             buffer.pop(0)
 
-            print("player:1 2 3")
+            print("player #1 #2 #3")
             print(LeftValue)
