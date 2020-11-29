@@ -7,7 +7,9 @@
 ### 示例
 - `python count.py`
 
-    example1.png
+    <div align="center">
+      <img src="https://github.com/jianqiaomo/DouDiZhuCounter/blob/master/example1.png?raw=true"/>
+    </div>
     
     - 第一个 _**2**_ 3 
         - 表示可能发生了一次抢地主和一次炸弹(翻倍 **_2_** 次)，三号玩家地主胜利，
